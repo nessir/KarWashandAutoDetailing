@@ -4,13 +4,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity"
-    android:background="@drawable/background">
+    android:background="@drawable/background"
+    tools:context=".MainActivity">
 
     <LinearLayout
         android:id="@+id/linearLayout4"
-        android:layout_width="411dp"
-        android:layout_height="95dp"
+        android:layout_width="0dp"
+        android:layout_height="169dp"
+        android:layout_marginStart="17dp"
+        android:layout_marginEnd="17dp"
         android:layout_marginBottom="122dp"
         android:orientation="horizontal"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -26,15 +28,23 @@
                 android:id="@+id/fab"
                 android:layout_width="74dp"
                 android:layout_height="wrap_content"
-                android:layout_gravity="end|bottom"
+                android:layout_gravity="center_horizontal"
                 android:contentDescription="@string/submit"
-                android:src="@drawable/booking"
-                app:maxImageSize="120dp" />
+                android:src="@drawable/viewservices"
+                app:maxImageSize="30dp" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="75dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:textAlignment="center"
+                android:text="@string/view_services" />
 
         </LinearLayout>
 
         <LinearLayout
-            android:layout_width="145dp"
+            android:layout_width="126dp"
             android:layout_height="match_parent"
             android:orientation="vertical">
 
@@ -42,14 +52,22 @@
                 android:id="@+id/fab2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_gravity="end|bottom"
+                android:layout_gravity="center_horizontal"
                 android:contentDescription="@string/submit"
-                android:src="@drawable/booking"
-                app:maxImageSize="120dp" />
+                android:src="@drawable/makebooking"
+                app:maxImageSize="30dp" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="101dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:textAlignment="center"
+                android:text="@string/make_a_booking" />
         </LinearLayout>
 
         <LinearLayout
-            android:layout_width="match_parent"
+            android:layout_width="126dp"
             android:layout_height="match_parent"
             android:orientation="vertical">
 
@@ -57,10 +75,18 @@
                 android:id="@+id/fab3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_gravity="end|bottom"
+                android:layout_gravity="center_horizontal"
                 android:contentDescription="@string/submit"
-                android:src="@drawable/booking"
-                app:maxImageSize="120dp" />
+                android:src="@drawable/contactus"
+                app:maxImageSize="30dp" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="71dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:text="@string/contact_us"
+                android:textAlignment="center"/>
         </LinearLayout>
     </LinearLayout>
 

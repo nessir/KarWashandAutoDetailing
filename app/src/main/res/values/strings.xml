@@ -59,9 +59,42 @@
     <string name="default_info_snippet">No places found, because location permission is disabled.</string>
     <string name="action_stop" />
     <string name="channel_id" />
-    <string name="submit" />
-    <string name="pick_time">Time</string>
-    <string name="pick_date">Date</string>
+
+
     <string name="btn_submit">SUBMIT</string>
-    <string name="pick_location">LOCATION</string>
+
+    <string name="api_key">AIzaSyAwd6IzEHoZH84r7cfBdbSZz8nKS8nFJWo</string>
+
+    <string name="buffing">Buffing</string>
+    <string name="detailing">Detailing</string>
+    <string name="enginewash">Engine wash</string>
+    <string name="headlightscleaning">Headlights Cleaning</string>
+    <string name="minorscratchesremoval">Minor Scratches Removal</string>
+    <string name="normalwash">Normal Wash</string>
+    <string name="underbodywash">Underbody Wash</string>
+    <string name="watermarksremoval">Watermarks Removal</string>
+
+
+    <string name="pick_date">Date</string>
+    <string name="pick_time">Time</string>
+    <string name="service">Please select the service of choice</string>
+    <string name="google_maps_key" />
+    <string name="enter_time">Enter Time</string>
+    <string name="pick_location">Pick Location</string>
+    <string name="submit">Submit</string>
+    <string name="enter_date">Enter Date</string>
+
+    <string name="contact_form">Contact Us</string>
+    <string name="contact_form_name">Your Name</string>
+    <string name="contact_form_email">Your Email</string>
+    <string name="contact_form_subject">Subject</string>
+    <string name="contact_form_message">Message</string>
+    <string name="contact_form_button">Send Message</string>
+    <string name="contact_form_post_message">Please wait! We\'re sending your message to the support department...</string>
+    <string name="contact_posted">Your message has been successfully delivered.</string>
+    <string name="view_services">VIEW SERVICES</string>
+    <string name="make_a_booking">MAKE A BOOKING</string>
+    <string name="contact_us">CONTACT US</string>
+
+
 </resources>

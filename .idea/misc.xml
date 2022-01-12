@@ -4,8 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/omolo/AndroidStudioProjects/KarWashandAutoDetailing/app/src/main/res/drawable/splash.xml" value="0.21197916666666666" />
+        <entry key="..\:/Users/omolo/AndroidStudioProjects/KarWashandAutoDetailing/app/src/main/res/layout/activity_booking.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/omolo/AndroidStudioProjects/KarWashandAutoDetailing/app/src/main/res/layout/activity_contact.xml" value="0.25" />
         <entry key="..\:/Users/omolo/AndroidStudioProjects/KarWashandAutoDetailing/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/Users/omolo/AndroidStudioProjects/KarWashandAutoDetailing/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/omolo/AndroidStudioProjects/KarWashandAutoDetailing/app/src/main/res/layout/activity_payment.xml" value="0.1" />
         <entry key="..\:/Users/omolo/AndroidStudioProjects/KarWashandAutoDetailing/app/src/main/res/layout/activity_reset_password.xml" value="0.1" />
         <entry key="..\:/Users/omolo/AndroidStudioProjects/KarWashandAutoDetailing/app/src/main/res/layout/activity_service.xml" value="0.1" />
         <entry key="..\:/Users/omolo/AndroidStudioProjects/KarWashandAutoDetailing/app/src/main/res/layout/activity_signup.xml" value="0.1" />
